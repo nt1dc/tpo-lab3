@@ -1,0 +1,1 @@
+docker pull selenoid/firefox:88.0
